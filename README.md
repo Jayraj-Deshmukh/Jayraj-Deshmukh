@@ -94,6 +94,18 @@ I'm passionate about building practical software applications, developing scalab
 🔗 Explore my [GitHub repositories](https://github.com/Jayraj-Deshmukh?tab=repositories) for the relevant project.
 
 ---
+## 🏆 Achievements & Coding
+
+- 🥇 **First Prize — IMPETUS 2K26**  
+  Achieved first place in the **Quiz and Debugging** category.
+
+- 💻 **200+ LeetCode Problems Solved**  
+  Practicing Data Structures & Algorithms to improve problem-solving and coding skills.  
+  🔗 [View my LeetCode Profile](https://leetcode.com/u/Jayraj99/)
+
+---
+
+⭐ *Consistently learning, building, and improving as a software developer.*
 
 ## 📊 GitHub Statistics
 
