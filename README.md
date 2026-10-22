@@ -1,19 +1,23 @@
 
-## 🏆 Achievements
+<h2>🏆 Achievement — IMPETUS 2K26</h2>
 
-### First Prize — IMPETUS 2K26
-- **Event:** IQ Spark
-- **Award:** First Prize
-- **Institution:** Sharad Institute of Technology, College of Engineering, Yadrav
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      <h3>🥇 First Prize — IQ Spark</h3>
+      <p>Sharad Institute of Technology,<br/>
+      College of Engineering, Yadrav</p>
+      <p>Recognized for performance in the
+      technical competition.</p>
+    </td>
+    <td width="45%" align="center">
+      <img src="impetus-2k26-first-prize.jpg"
+           width="100%"
+           alt="IMPETUS 2K26 First Prize"/>
+    </td>
+  </tr>
+</table>
 
-Proud to have secured first place in this technical competition. This achievement motivates me to continue improving my technical and problem-solving skills.
+<h2>💻 Featured Projects</h2>
 
-### Award Photos
-
-![IMPETUS award photo 1](impetus-2k26-first-prize.jpg)
-
-![IMPETUS award photo 2](impetus-2k26-first-prize%281%29.jpg)
-
-![IMPETUS award photo 3](impetus-2k26-first-prize.jpg%20%281%29.jpeg)
-
-![IMPETUS award photo 4](impetus-2k26-first-prize.jpg%20%282%29.jpeg)
+<!-- Keep your existing project links and descriptions here. -->
