@@ -1,3 +1,5 @@
+![Jayraj Deshmukh — Java & Full Stack Developer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=Jayraj%20Deshmukh&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
+
 # 👋 Hi, I'm Jayraj Deshmukh
 
 ### Aspiring Software Engineer | Java Developer | Full Stack Developer
