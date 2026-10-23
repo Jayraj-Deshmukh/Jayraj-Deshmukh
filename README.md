@@ -1,8 +1,8 @@
 ![Jayraj Deshmukh — Java & Full Stack Developer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=Jayraj%20Deshmukh&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MySQL;Building+Scalable+Software+Solutions;200%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MySQL;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+</p>
 # 💫 About Me:
 
 # 👋 Hi, I'm Jayraj Deshmukh
