@@ -126,7 +126,11 @@ I'm passionate about building practical software applications, developing scalab
 </p>
 
 ---
+## 🐍 Contribution Activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jayraj-Deshmukh/Jayraj-Deshmukh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 ## 🎯 Current Goals
 
 - Strengthen Java, Spring Boot, and backend development skills.
