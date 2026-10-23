@@ -127,9 +127,8 @@ I'm passionate about building practical software applications, developing scalab
 
 ---
 ## 🐍 Contribution Activity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jayraj-Deshmukh/Jayraj-Deshmukh/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Jayraj-Deshmukh/Jayraj-Deshmukh/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="100%" />
 </p>
 ## 🎯 Current Goals
 
