@@ -156,6 +156,32 @@ I'm always interested in learning from other developers, contributing to meaning
 
 ---
 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Jayraj-Deshmukh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayraj-deshmukh-abb564321">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://developer-portfolio-five-virid.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:jayrajdeshmukh4199@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/Jayraj99/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jayraj-Deshmukh&style=flat-square&color=2563EB" alt="Profile views" />
 </p>
