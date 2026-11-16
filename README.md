@@ -102,7 +102,7 @@ I'm passionate about building practical software applications, developing scalab
   🔗 [View my LeetCode Profile](https://leetcode.com/u/Jayraj99/)
 
 ---
-
+⭐ Building practical solutions, strengthening my skills, and growing as a software developer.
 
 ## 🐍 Contribution Activity
 <p align="center">
