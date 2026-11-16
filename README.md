@@ -107,7 +107,6 @@ I'm passionate about building practical software applications, developing scalab
 
 ## 📊 GitHub Statistics
 
-<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
