@@ -106,42 +106,27 @@ I'm passionate about building practical software applications, developing scalab
 ⭐ *Consistently learning, building, and improving as a software developer.*
 
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- Dark mode -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github#gh-dark-mode-only"
-    alt="GitHub Statistics - Dark"
-    height="180"
-  />
-  <!-- Light mode -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=default&hide_border=true&rank_icon=github#gh-light-mode-only"
-    alt="GitHub Statistics - Light"
-    height="180"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=default&hide_border=true&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics">
+  </picture>
 </p>
 
 <p align="center">
-  <!-- Dark mode -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only"
-    alt="Most Used Languages - Dark"
-    height="180"
-  />
-  <!-- Light mode -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=default&hide_border=true#gh-light-mode-only"
-    alt="Most Used Languages - Light"
-    height="180"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=default&hide_border=true" height="180" alt="Most Used Languages">
+  </picture>
 </p>
 
 ---
 
-
----
 ## 🐍 Contribution Activity
 <p align="center">
   <img
