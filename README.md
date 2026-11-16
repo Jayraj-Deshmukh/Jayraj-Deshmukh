@@ -105,21 +105,40 @@ I'm passionate about building practical software applications, developing scalab
 
 ⭐ *Consistently learning, building, and improving as a software developer.*
 
+
 ## 📊 GitHub Statistics
 
-
 <p align="center">
+  <!-- Dark mode -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github#gh-dark-mode-only"
+    alt="GitHub Statistics - Dark"
     height="180"
   />
+  <!-- Light mode -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Programming Languages"
+    src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=default&hide_border=true&rank_icon=github#gh-light-mode-only"
+    alt="GitHub Statistics - Light"
     height="180"
   />
 </p>
+
+<p align="center">
+  <!-- Dark mode -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only"
+    alt="Most Used Languages - Dark"
+    height="180"
+  />
+  <!-- Light mode -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=default&hide_border=true#gh-light-mode-only"
+    alt="Most Used Languages - Light"
+    height="180"
+  />
+</p>
+
+---
 
 
 ---
