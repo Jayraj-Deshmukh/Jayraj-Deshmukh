@@ -107,25 +107,15 @@ I'm passionate about building practical software applications, developing scalab
 
 
 
+
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=default&hide_border=true&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics">
-  </picture>
-</p>
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=default&hide_border=true" height="180" alt="Most Used Languages">
-  </picture>
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+
 
 ## 🐍 Contribution Activity
 <p align="center">
