@@ -103,19 +103,6 @@ I'm passionate about building practical software applications, developing scalab
 
 ---
 
-⭐ *Consistently learning, building, and improving as a software developer.*
-
-
-
-
-## 📊 GitHub Statistics
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 
 ## 🐍 Contribution Activity
 <p align="center">
