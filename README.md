@@ -107,26 +107,21 @@ I'm passionate about building practical software applications, developing scalab
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Most used programming languages"
-  />
-</p>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Jayraj-Deshmukh&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub contribution streak"
+    src="https://github-readme-stats.vercel.app/api?username=Jayraj-Deshmukh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayraj-Deshmukh&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages"
+    height="180"
   />
 </p>
+
 
 ---
 ## 🐍 Contribution Activity
