@@ -55,6 +55,7 @@ I'm passionate about building practical software applications, developing scalab
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ### 🏦 Bank Management System
@@ -64,16 +65,16 @@ I'm passionate about building practical software applications, developing scalab
 - Implemented authentication, JWT-based security, and role-based authorization.
 - Organized backend logic using structured services, DTOs, and REST APIs.
 
-🔗 [View Repository](https://github.com/Jayraj-Deshmukh/bank-management-system)
+🔗 [View Bank Management System](https://github.com/Jayraj-Deshmukh/bank-management-system)
 
 ### 🌐 ServiceHub — AI-Enabled Service Discovery
 **React.js · Express.js · AI Recommendations · JWT**
 
-- Designed a platform concept for discovering local service providers for everyday needs.
+- Designed a platform for discovering local service providers for everyday needs.
 - Planned customer, provider, and administrator roles.
 - Incorporated location-aware discovery and personalized service recommendations.
 
-🔗 Explore my [GitHub repositories](https://github.com/Jayraj-Deshmukh?tab=repositories) for the project source.
+🔗 [View ServiceHub Repository](https://github.com/adityahogade/LocalLoop1)
 
 ### 💻 MERN Stack Internship Project
 **React.js · Node.js · Express.js · MySQL**
@@ -81,7 +82,7 @@ I'm passionate about building practical software applications, developing scalab
 - Contributed to backend API routes and application integration.
 - Worked on login, course management, and profile functionality.
 
-🔗 Explore my [GitHub repositories](https://github.com/Jayraj-Deshmukh?tab=repositories) for the relevant project.
+🔗 [View MERN Project](https://github.com/Sarvesh0908/MERN_Project)
 
 ### 📚 Exam Seating Optimization System
 **Algorithmic Problem Solving · Optimization**
@@ -89,7 +90,8 @@ I'm passionate about building practical software applications, developing scalab
 - Worked on a project focused on organizing examination seating arrangements.
 - Explored ways to make student allocation and examination planning more systematic.
 
-🔗 Explore my [GitHub repositories](https://github.com/Jayraj-Deshmukh?tab=repositories) for the relevant project.
+🔗 [View Exam Seating Project](https://github.com/Jayraj-Deshmukh/Exam-Seating-Arrangement-System)
+
 
 ---
 ## 🏆 Achievements & Coding
